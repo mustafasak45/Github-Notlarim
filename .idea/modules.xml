@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Github-Notlarim.iml" filepath="$PROJECT_DIR$/Github-Notlarim.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Github-Notlarim.iml" filepath="$PROJECT_DIR$/.idea/Github-Notlarim.iml" />
+>>>>>>> a360c7e7f49d9ebac17198cba7788c6532371701
     </modules>
   </component>
 </project>

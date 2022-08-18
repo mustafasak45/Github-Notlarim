@@ -4,6 +4,7 @@ public class C01 {
         System.out.println("Mustafa SAK EKLEME YAPILAN SATIRR");
         System.out.println("Mustafa SAK EKLEME YAPILAN SATIRR22");
         System.out.println("Mustafa SAK EKLEME YAPILAN SATIRR22");
+        System.out.println("deneme akin");
 
     }
 }
